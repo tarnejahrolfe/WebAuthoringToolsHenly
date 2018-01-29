@@ -1,0 +1,46 @@
+<h1>
+These are my favorite things
+</h1>
+<h2><a href="#anchor">My Movies</a>
+</h2>
+<h2>
+<a href="#anchor">My Foods</a>
+</h2>
+<h2>
+<a href="#anchor">My Shows</a>
+</h2>
+<h2>
+<a href="#anchor">My Music</a>
+</h2>
+<h3>
+My Movies
+</h3>
+<ol>
+<li>Hairspray</li>
+<li>Dreamgirls</li>
+<li>21 Jump Street</li>
+</ol>
+<h3>
+My Foods
+</h3>
+<ol>
+<li>Spaghetti</li>
+<li>Cereal</li>
+<li>Pho</li>
+</ol>
+<h3>
+My Shows
+</h3>
+<ol>
+<li>Power</li>
+<li>Insecure</li>
+<li>The Chi</li>
+</ol>
+<h3>
+My Music
+</h3>
+<ol>
+<li>Neo Soul</li>
+<li>Pop</li>
+<li>Rap</li>
+</ol>
