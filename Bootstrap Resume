@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html lang="">
+
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- ===========================
+    THEME INFO
+    =========================== -->
+    <meta name="description" content="CVstrap is another Free minimal CV HTML theme by EvenFly built with Bootstrap 3.3.0. and released under CC-3.0 license.">
+    <meta name="keywords" content="curriculum vitae, cv, one page, onepage, bootstrap, responsive, resume, timeline, free cv">
+    <meta name="author" content="Mamun Srizon">
+
+    <!-- ===========================
+    SITE TITLE
+    =========================== -->
+    <title>Tarnejah Rolfe</title>
+
+    <!-- ===========================
+    FAVICONS
+    =========================== -->
+    <link rel="icon" href="img/favicon.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="img/apple-touch-icon-ipad-retina.png" />
+    <link rel="apple-touch-icon" sizes="114x114" href="img/apple-touch-icon-iphone-retina.png" />
+    <link rel="apple-touch-icon" sizes="72x72" href="img/apple-touch-icon-ipad.png" />
+    <link rel="apple-touch-icon" sizes="57x57" href="img/apple-touch-icon-iphone.png" />
+
+    <!-- ===========================
+    STYLESHEETS
+    =========================== -->
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/responsive.css">
+
+    <!-- ===========================
+    FONTS & ICONS
+    =========================== -->
+    <link href='//fonts.googleapis.com/css?family=Kristi|Alegreya+Sans:300' rel='stylesheet' type='text/css'>
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+
+
+    <!--[if IE]>
+        <script src="https://cdn.jsdelivr.net/html5shiv/3.7.2/html5shiv.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+
+<body>
+    <div class="container">
+        <!-- ===========================
+        HEADER
+        ============================ -->
+        <div id="header" class="row">
+            <div class="col-sm-2">
+                <img class="propic" src="img/arms.jpg" alt="">
+            </div>
+            <!-- photo end-->
+
+            <div class="col-sm-10">
+                <div class="cv-title">
+                    <div class="row">
+                        <div class="col-sm-7">
+                            <h1>Tarnejah Rolfe</h1>
+                        </div>
+                        <div class="col-sm-5 text-right dl-share">
+                            <!-- AddToAny BEGIN -->
+                            <a class="a2a_dd btn btn-default" href=""><span class="fa fa-share "></span> Share</a>
+                            <script type="text/javascript">
+                                var a2a_config = a2a_config || {};
+                                a2a_config.linkname = "Minimal CV by EvenFly";
+                                a2a_config.num_services = 6;
+                                a2a_config.prioritize = ["facebook", "twitter", "google_plus", "linkedin", "pinterest", "email"];
+                            </script>
+                            <script type="text/javascript" src="//static.addtoany.com/menu/page.js"></script>
+                            <!-- AddToAny END -->
+
+                            <a class="btn btn-success" href=""><span class="fa fa-download"></span> Download</a>
+                        </div>
+                    </div>
+                    <h2>Howard University Student</h2>
+                </div><!-- Title end-->
+
+                <!-- ===========================
+                SOCIAL & CONTACT
+                ============================ -->
+                <div class="row">
+                    <div class="col-sm-4">
+                        <ul class="list-unstyled">
+                            <li><a href=""><span class="social fa fa-skype"></span>+1 (214) 840-9790</a>
+                            </li>
+                            <li><a href="mailto:tarnejahrolfe@gmail.com"><span class="social fa fa-envelope-o"></span>tarnejahrolfe@gmail.com</a>
+                            </li>
+                        </ul>
+                    </div><!-- social 1st col end-->
+
+                    <div class="col-sm-4">
+                        <ul class="list-unstyled">
+                            <li><a href=""><span class="social fa fa-facebook"></span>Facebook</a>
+                            </li>
+                            <li><a href=""><span class="social fa fa-twitter"></span>Twitter</a>
+                            </li>
+                            <li><a href=""><span class="social fa fa-linkedin"></span>Linkedin</a>
+                            </li>
+                        </ul>
+                    </div><!-- social 2nd col end-->
+
+                
+                    </div><!-- social 3rd col end-->
+                </div><!-- header social end-->
+            </div><!-- header right end-->
+        </div><!-- header end-->
+
+        <hr class="firsthr">
+
+        <!-- ===========================
+        BODY LEFT PART
+        ============================ -->
+        <div class="col-md-8 mainleft">
+            <div id="statement" class="row mobmid">
+                <div class="col-sm-1">
+                    <span class="secicon fa fa-user"></span>
+                </div><!--icon end-->
+
+                <div class="col-sm-11">
+                    <h3>Personal statement </h3>
+                    <p>Tarnejah Rolfe is a highly motivated student who has a passion for the making the interaction between people and technology easier. She has followed this passion and is currently pursuing a Bachelor's in Business Administration in Computer Information Systems so that she may continue to follow her dreams. </p>
+
+                   
+                </div><!--info end-->
+            </div><!--personal statement end-->
+
+            <hr>
+
+            <div id="education" class="row mobmid">
+                <div class="col-sm-1">
+                    <span class="secicon fa fa-graduation-cap"></span>
+                </div><!--icon end-->
+
+                <div class="col-sm-11">
+                    <h3>Education</h3>
+
+                    <div class="row">
+                        <div class="col-md-9">
+                            <h4>Bachelor's of Business Administration in Computer Information Systems </h4>
+                            <p class="sub"><a href="">Howard University School of Business</a>
+                            </p>
+                            <p>Studying all aspects of the interaction between hardware, software, data, procedures, and people</p>
+                        </div>
+
+                        <div class="year col-md-3">
+                            <p>2016 - 2019</p>
+                        </div>
+                    </div><!--Education & Certification 1 end-->
+                    
+                    
+
+                   
+                </div>
+            </div><!--Education & Certifications end-->
+            
+            <hr>
+
+            <!-- ===========================
+            JOB EXPERIENCES
+            ============================ -->
+            <div id="job" class="row mobmid">
+                <div class="col-sm-1">
+                    <span class="secicon fa fa-briefcase"></span>
+                </div><!--icon end-->
+
+                <div class="col-sm-11">
+                    <h3>Experience</h3>
+
+                    <div class="row">
+                        <div class="col-md-9">
+                            <h4>Business Development Intern</h4>
+                            <p class="sub"><a href="">United Parcel Service (UPS)</a>
+                            </p>
+                            <p><ul>
+                  <li>Worked directly with senior management to establish a processing tool for accessing payroll rules</li><br><li>Developed Access database VBA developer tools</li><br><li>Managed all phases payroll database development including planning, designing, implementation, and testing</li></ul>
+</p>
+                        </div>
+
+                        <div class="year col-md-3">
+                            <p>June 2017 - August 2017</p>
+                        </div>
+                    </div><!--Job 1 end-->
+                    
+                    <hr>
+                    
+                    <div class="row">
+                        <div class="col-md-9">
+                            <h4>Co-Director</h4>
+                            <p class="sub"><a href="">Computer-Based Information Systems</a>
+                            </p>
+                            <p><ul>
+                  <li>Recruited students and individuals in the community to raise awareness about awareness about activities offered in organization, increasing major enrolled by 200%</li><br><li>Ensured members remained alert of current events and technological advancements</li><br><li>Coordinated with E-Board to further the nurturing and development of aspiring coders</li></ul>
+</p>
+                        </div>
+
+                        <div class="year col-md-3">
+                            <p>August 2016 - May 2017</p>
+                        </div>
+                    </div><!--Job 2 end-->
+                    
+                    <hr>
+                    
+                       <div class="row">
+                        <div class="col-md-9">
+                            <h4>President</h4>
+                            <p class="sub"><a href="">School of Business Executive Leadership Honors Program</a>
+                            </p>
+                            <p><ul>
+                  <li>Develop critical thinking skills through case studies to develop solutions for current issues</li><br><li>Engage in professional development through contact with corporate sponsor - First Data</li><br><li>Join weekly seminars, business acumen, and awareness of practices</li></ul>
+</p>
+                        </div>
+
+                        <div class="year col-md-3">
+                            <p>April 2018 - Present</p>
+                        </div>
+                    </div><!--Job 3 end-->
+                </div><!--Job experiences end-->
+            </div><!--Job experiences end-->
+        </div><!--left end-->
+        
+        <!-- ===========================
+        SIDEBAR
+        =========================== -->
+        <div class="col-md-4 mainright">
+            <div class="row">
+                <div class="col-sm-1 col-md-2 mobmid">
+                    <span class="secicon fa fa-magic"></span>
+                </div><!--icon end-->
+
+                <div class="col-sm-11 col-md-10">
+                    <h3 class="mobmid">Skills </h3>
+
+                    <p>Global Business Consulting</p>
+                    <div class="progress">
+                        <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100" style="width: 75%">
+                            <span class="sr-only">75% Complete (success)</span>
+                        </div>
+                    </div><!--skill end-->
+
+
+                    <p>HTML</p>
+                    <div class="progress">
+                        <div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100" style="width: 95%">
+                            <span class="sr-only">95% Complete</span>
+                        </div>
+                    </div><!--skill end-->
+
+                    <p>CSS</p>
+                    <div class="progress">
+                        <div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 80%">
+                            <span class="sr-only">80% Complete (warning)</span>
+                        </div>
+                    </div><!--skill end-->
+
+                    <p>Wordpress</p>
+                    <div class="progress">
+                        <div class="progress-bar progress-bar-danger" role="progressbar" aria-valuenow="30" aria-valuemin="0" aria-valuemax="100" style="width: 90%">
+                            <span class="sr-only">90% Complete (danger)</span>
+                        </div>
+                    </div><!--skill end-->
+                </div><!--info end-->
+            </div><!--tech skills end-->
+            
+          
+
+    <!-- ===========================
+    FOOTER
+    =========================== -->
+    <footer class="text-center">
+        <p>&copy; Designed by Tarnejah Rolfe 
+        </p>
+    </footer>
+
+    <!--necessary scripts and plugins-->
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+    <script src="js/jquery.nicescroll.min.js"></script>
+    <script src="js/evenfly.js"></script>
+</body>
+
+</html>
