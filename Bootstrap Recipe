@@ -1,0 +1,38 @@
+<html>
+<body>
+
+<h1>
+What are we making?
+</h1>
+<h2>
+By Tarnejah Rolfe
+</h2>
+<p>
+  My favorite time to have this breakfast is in the morning when I wake up. I make this breakfast because it is quick, easy, fulfilling, and delicious.
+</p>
+<div class="panel panel-default">
+  <div class="panel-heading">Ingredients</div>
+  <div class="panel-body">
+<ul>
+    <li>1 cup of dry cereal (of your choice)</li>
+    <li>1/2 cup of milk (flavor/brand/type of your choice)</li>
+  </ul>
+  </div></div>
+<p>
+  
+ <div class="panel panel-default">
+  <div class="panel-heading">What To Do</div>
+  <div class="panel-body">
+  </div></div></div>
+  <ol>
+    <li>Take small bowl and place on counter</li>
+    <li>Open cereal box and pour cereal into the bowl</li>
+    <li>
+      Pour milk on top of cereal
+    </li>
+    <li>
+      Enjoy with a spoon!
+    </li>
+  </ol>
+</html>
+</body>
